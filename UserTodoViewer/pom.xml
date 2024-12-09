@@ -15,11 +15,10 @@
     </properties>
 
     <dependencies>
-        <!-- JavaFX -->
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
-            <version>20</version> <!-- Укажите версию, совместимую с вашей JVM -->
+            <version>20</version>
         </dependency>
         <dependency>
             <groupId>org.openjfx</groupId>
@@ -32,7 +31,6 @@
             <version>20</version>
         </dependency>
 
-        <!-- Gson -->
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
